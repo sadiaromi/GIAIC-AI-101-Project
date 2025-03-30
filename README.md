@@ -30,16 +30,21 @@ A simple yet useful countdown timer that helps you stay on track! Set a time, st
 
 ### 7. *🔑 Password Generator*  
 🔗 [View Project on Google Colab](https://colab.research.google.com/drive/1oC-Jv2ywksZnKPc3mmxDkly2P6yUDP_3?usp=drive_link)
+
 Generate strong, secure passwords instantly! This tool creates random passwords with a mix of letters, numbers, and symbols to keep your accounts safe. Customize the length and complexity as needed. Stay secure with just one click! 🚀🔐
 
 ### 8. *⚖️ BMI Calculator With Streamlit*  
 🔗 [View Project on Google Colab](https://colab.research.google.com/drive/10aqUjiql7WbQVnhlBYzRpWe7-6sTZApO?usp=drive_link)
+
 🌐 [ View Live on Streamlit](https://bmi-calculator-ubp5k5uv45hptlqmkkcbbc.streamlit.app)
+
 Easily calculate your Body Mass Index (BMI) and understand your health status! Enter your height and weight, and this tool will instantly determine whether you're underweight, normal, overweight, or obese. A simple, interactive way to track your fitness goals! 🚀💪
 
 ### 9. *💰Personal Expense Tracker With Streamlit*  
 🔗 [View Project on Google Colab](https://colab.research.google.com/drive/1LbDo8phvTpntOEaQ2jpwZC0efeILvoI4?usp=drive_link) 
+
 🌐 [ View Live on Streamlit](https://personal-expense-tracker-7u4hfjfd9bsysy3cmedcsy.streamlit.app)
+
 Take control of your finances with this interactive expense tracker! Easily add and categorize expenses, track your spending patterns, remove entries, and download reports. Gain insights into your financial habits with real-time data analysis and smart visualizations. Stay organized and make better financial decisions! 🚀📊 
 
 ---
@@ -57,4 +62,5 @@ pip install -r requirements.txt
 
 ## 💡 Feedback & Support 
 If this project was helpful or you have ideas for improvement, feel free to open an issue or reach out. Your feedback is invaluable in making it even better! 🚀😊
+
 If you found this repository helpful, consider giving it a ⭐ **star** and following for more exciting projects! Your support keeps the innovation going. 🚀✨  
